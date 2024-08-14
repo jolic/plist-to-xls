@@ -2,7 +2,7 @@
   "name": "plist-to-xls",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jolic/plist-to-xls",
+  "homepage": "https://jolic.github.io/plist-to-xls",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
