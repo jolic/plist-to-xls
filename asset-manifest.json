@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jolic/plist-to-xls/static/css/main.0129d094.css",
+    "main.js": "/jolic/plist-to-xls/static/js/main.dc7ae8ea.js",
+    "static/js/453.ef91ea38.chunk.js": "/jolic/plist-to-xls/static/js/453.ef91ea38.chunk.js",
+    "index.html": "/jolic/plist-to-xls/index.html",
+    "main.0129d094.css.map": "/jolic/plist-to-xls/static/css/main.0129d094.css.map",
+    "main.dc7ae8ea.js.map": "/jolic/plist-to-xls/static/js/main.dc7ae8ea.js.map",
+    "453.ef91ea38.chunk.js.map": "/jolic/plist-to-xls/static/js/453.ef91ea38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0129d094.css",
+    "static/js/main.dc7ae8ea.js"
+  ]
+}
