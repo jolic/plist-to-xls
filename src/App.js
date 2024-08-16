@@ -48,7 +48,7 @@ function App() {
         const doc = parser.parseFromString(result, 'application/xml')
         const errorNode = doc.querySelector("parsererror")
         if (errorNode) {
-          alert('Parsing failed! Please check your plist file.')
+          alert('Parsing failed! Please check your plist file. ')
           return
         }
         const plistAsObj = plist.parse(result)
